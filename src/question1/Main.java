@@ -4,11 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        Cat myCat = new Cat("My Cat Name");
-        Dog myDog = new Dog("My Dog Name");
-        Dog anotherDog = new Dog("Another Dog Name");
-        BigDog myBigDog = new BigDog("My Big Dog Name");
-        BigDog anotherBigDog = new BigDog("Another Big Dog Name");
+        Cat myCat = new Cat("Bao");
+        Dog myDog = new Dog("Minh");
+        Dog anotherDog = new Dog("Lu");
+        BigDog myBigDog = new BigDog("Hy");
+        BigDog anotherBigDog = new BigDog("Still Hy");
 
         System.out.println(myCat);
         System.out.println(myDog);
@@ -25,3 +25,5 @@ public class Main {
 
     }
 }
+
+//system out println{}
